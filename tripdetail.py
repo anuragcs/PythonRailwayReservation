@@ -75,3 +75,5 @@ def tripint():
 ##            file.write(age.encode())
 ##            file.write(gen.encode())
 ##            ans=input("Add more")
+
+
